@@ -58,6 +58,9 @@ Maintain a switch-press counter inside an ISR and periodically transmit the coun
 ---
 
 ## OUTPUT
+<img width="642" height="255" alt="image" src="https://github.com/user-attachments/assets/3a654f66-f3b1-4002-bf17-af4e0fa13cfe" />
+
+<img width="1918" height="1145" alt="image" src="https://github.com/user-attachments/assets/cb759102-1173-460c-8d5f-64327ba23740" />
 
 
 
